@@ -23,21 +23,6 @@ Welcome to **YEG-YYC-MobileApp**, a React Native project built using **Expo** fo
 - **JSON Data Handling**
 - **Type Script**
 
-## 🔹 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/YEG-YYC-MobileApp.git
-   cd YEG-YYC-MobileApp
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the Expo development server:
-   ```bash
-   npx expo start
-   ```
 
 ## 🔹 Usage Instructions
 
